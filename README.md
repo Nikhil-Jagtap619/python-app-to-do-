@@ -1,2 +1,2 @@
 # Download to run the application
-executable file 
+executable file using pyinstaller 
